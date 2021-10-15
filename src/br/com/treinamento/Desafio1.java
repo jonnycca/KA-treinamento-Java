@@ -1,8 +1,8 @@
-package br.com.treinamento.desafio1;
+package br.com.treinamento;
 
 import java.util.Scanner;
 
-public class Main {
+public class Desafio1 {
 
     public static void main(String[] args) {
         int capacidadeCabine, totalAlunos, totalViagens = 0;
