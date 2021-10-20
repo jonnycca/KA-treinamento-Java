@@ -1,4 +1,4 @@
-package br.com.treinamento;
+package br.com.treinamento.modulo1;
 
 import java.util.Scanner;
 
